@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39272482-CDC2-4ACD-9BB2-99B2983DDD7D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IYC_Kasa_Otomasyonu</RootNamespace>
+    <AssemblyName>IYC Kasa Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v17.1.UI, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1.UI, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.1.Extensions, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.1.Wizard, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v17.1.Extensions, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MesajPaneli, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\MesajPaneli.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net45\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmOdemesiGecenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOdemesiGecenler.Designer.cs">
+      <DependentUpon>frmOdemesiGecenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendParametricMessage.cs" />
+    <Compile Include="frmAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaSayfa.Designer.cs">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepozit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepozit.Designer.cs">
+      <DependentUpon>frmDepozit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDonemEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDonemEkle.Designer.cs">
+      <DependentUpon>frmDonemEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuzenle.Designer.cs">
+      <DependentUpon>frmDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndirim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndirim.Designer.cs">
+      <DependentUpon>frmIndirim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKaydiSilinenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKaydiSilinenler.Designer.cs">
+      <DependentUpon>frmKaydiSilinenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOdemeYapanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOdemeYapanlar.Designer.cs">
+      <DependentUpon>frmOdemeYapanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciCikisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciCikisi.Designer.cs">
+      <DependentUpon>frmOgrenciCikisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRaporlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRaporlama.Designer.cs">
+      <DependentUpon>frmRaporlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTahsilEt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTahsilEt.Designer.cs">
+      <DependentUpon>frmTahsilEt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTahsilEtDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTahsilEtDuzenle.Designer.cs">
+      <DependentUpon>frmTahsilEtDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYeniOgrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYeniOgrenci.Designer.cs">
+      <DependentUpon>frmYeniOgrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kasa_otomasyonuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kasa_otomasyonuDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="kasa_otomasyonuDataSet1.cs">
+      <DependentUpon>kasa_otomasyonuDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="kasa_otomasyonuDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kasa_otomasyonuDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlBaglantim.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="tabloKontrol.cs" />
+    <Compile Include="testSqlite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testSqlite.Designer.cs">
+      <DependentUpon>testSqlite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testtastata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testtastata.Designer.cs">
+      <DependentUpon>testtastata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TESTTEST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TESTTEST.Designer.cs">
+      <DependentUpon>TESTTEST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tutarBelirle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tutarBelirle.Designer.cs">
+      <DependentUpon>tutarBelirle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAnaSayfa.resx">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepozit.resx">
+      <DependentUpon>frmDepozit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDonemEkle.resx">
+      <DependentUpon>frmDonemEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDuzenle.resx">
+      <DependentUpon>frmDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndirim.resx">
+      <DependentUpon>frmIndirim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKaydiSilinenler.resx">
+      <DependentUpon>frmKaydiSilinenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOdemesiGecenler.resx">
+      <DependentUpon>frmOdemesiGecenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOdemeYapanlar.resx">
+      <DependentUpon>frmOdemeYapanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciCikisi.resx">
+      <DependentUpon>frmOgrenciCikisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRaporlama.resx">
+      <DependentUpon>frmRaporlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTahsilEt.resx">
+      <DependentUpon>frmTahsilEt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTahsilEtDuzenle.resx">
+      <DependentUpon>frmTahsilEtDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYeniOgrenci.resx">
+      <DependentUpon>frmYeniOgrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="testSqlite.resx">
+      <DependentUpon>testSqlite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testtastata.resx">
+      <DependentUpon>testtastata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TESTTEST.resx">
+      <DependentUpon>TESTTEST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tutarBelirle.resx">
+      <DependentUpon>tutarBelirle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="db\kasa_otomasyonu.s3db" />
+    <None Include="kasa_otomasyonuDataSet.xsc">
+      <DependentUpon>kasa_otomasyonuDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="kasa_otomasyonuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kasa_otomasyonuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="kasa_otomasyonuDataSet.xss">
+      <DependentUpon>kasa_otomasyonuDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="kasa_otomasyonuDataSet1.xsc">
+      <DependentUpon>kasa_otomasyonuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="kasa_otomasyonuDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kasa_otomasyonuDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="kasa_otomasyonuDataSet1.xss">
+      <DependentUpon>kasa_otomasyonuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

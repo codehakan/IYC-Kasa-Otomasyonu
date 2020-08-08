@@ -1,0 +1,44 @@
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\IYC Kasa Otomasyonu.exe.config
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\kasa_otomasyonuDataSet.Designer.cs
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\db\kasa_otomasyonu.s3db
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\kasa_otomasyonuDataSet.xsc
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\kasa_otomasyonuDataSet.xsd
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\kasa_otomasyonuDataSet.xss
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\EntityFramework.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\MesajPaneli.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\EntityFramework.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\MesajPaneli.pdb
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\MesajPaneli.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC Kasa Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmAnaSayfa.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmDepozit.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmDonemEkle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmDuzenle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmGiris.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmIndirim.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmKaydiSilinenler.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmOdemeYapanlar.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmOgrenciCikisi.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmRaporlama.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmTahsilEt.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmTahsilEtDuzenle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.frmYeniOgrenci.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.Properties.Resources.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.testSqlite.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC_Kasa_Otomasyonu.testtastata.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC Kasa Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC Kasa Otomasyonu.exe.licenses
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\RdlCompile.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\x86\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\x86\Debug\System.Data.SQLite.xml

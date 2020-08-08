@@ -1,0 +1,489 @@
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmAnaSayfa.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDepozit.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDonemEkle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDuzenle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmGiris.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmIndirim.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmKaydiSilinenler.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemesiGecenler.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemeYapanlar.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOgrenciCikisi.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmRaporlama.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEt.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEtDuzenle.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmYeniOgrenci.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.Properties.Resources.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testSqlite.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testtastata.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe.licenses
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.Designer.cs
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\db\kasa_otomasyonu.s3db
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsc
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsd
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xss
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe.config
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmAnaSayfa.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDepozit.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDonemEkle.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDuzenle.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmGiris.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmIndirim.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmKaydiSilinenler.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemesiGecenler.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemeYapanlar.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOgrenciCikisi.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmRaporlama.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEt.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEtDuzenle.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmYeniOgrenci.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.Properties.Resources.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testSqlite.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testtastata.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.GenerateResource.cache
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe.licenses
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.Designer.cs
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsc
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsd
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xss
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe.config
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.pdb
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.TESTTEST.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.CopyComplete
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\stdole.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csprojAssemblyReference.cache
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.tutarBelirle.resources
+C:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Newtonsoft.Json.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csprojAssemblyReference.cache
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmAnaSayfa.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDepozit.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDonemEkle.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmDuzenle.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmGiris.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmIndirim.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmKaydiSilinenler.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemesiGecenler.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOdemeYapanlar.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmOgrenciCikisi.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmRaporlama.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEt.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmTahsilEtDuzenle.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.frmYeniOgrenci.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.Properties.Resources.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testSqlite.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.testtastata.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.TESTTEST.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC_Kasa_Otomasyonu.tutarBelirle.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.GenerateResource.cache
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe.licenses
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.exe
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.pdb
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsc
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xsd
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\kasa_otomasyonuDataSet.xss
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe.config
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.exe
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\IYC Kasa Otomasyonu.pdb
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Newtonsoft.Json.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EnvDTE.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\stdole.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\Microsoft.MSXML.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\obj\Debug\IYC Kasa Otomasyonu.csproj.CopyComplete
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\x86\sqlite3.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\IYC Kasa Otomasyonu\IYC Kasa Otomasyonu\bin\Debug\x64\sqlite3.dll
